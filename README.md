@@ -7,3 +7,5 @@ I'm releasing this source code so everyone learns that you should learn to code 
 
 
 
+
+![Giftrakos](https://cdn.discordapp.com/attachments/931204917836791848/935621624890269847/Screenshot_2.png)
